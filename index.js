@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DIRETORIA | YAKUZA"];
+const statusMessages = ["Direção Real City RP"];
 
 
 let currentIndex = 0;
